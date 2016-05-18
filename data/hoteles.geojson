@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Villahermosa Marriott Hotel", "TEL": "(52) 993 310 0201", "URL": "http:\/\/www.marriott.com\/", "ADRESS1": "Col Tabasco 2000 Av Paseo Tabasco 1407", "ADDRESS2": null, "CITY": "villahermosa", "ZIP":86030 }, "geometry": { "type": "Point", "coordinates": [ -92.9467808, 18.0014367  ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "HOTEL AZTECA", "TEL": "(52) 993 354 6677", "URL": "http:\/\/www.hotelazteca.com.mx\/", "ADRESS1": "Av Niños Héroes 507 Atasta de Serra", "ADDRESS2": null, "CITY": "Villahermosa", "ZIP": 86100  }, "geometry": { "type": "Point", "coordinates": [ -92.9451474, 17.9905034  ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "City Express Villahermosa Oficial", "TEL": "(52) 993 310 9310", "URL": "http:\/\/www.cityexpress.com\/", "ADRESS1": "Blvd. Adolfo Ruiz Cortinez Poniente 1803-A Atasta", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86100 }, "geometry": { "type": "Point", "coordinates": [ -92.9484092, 17.9889379 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Hampton Inn by Hilton Villahermosa", "TEL": "(52) 993 310 5888", "URL": "http:\/\/www.hamptoninn3.hilton.com\/", "ADRESS1": "Prolongacion Av. 27 Febrero 2804 Atasta de Serra", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86100 }, "geometry": { "type": "Point", "coordinates": [ -92.9548217, 17.9944637 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Hyatt Regency Villahermosa", "TEL": "(52) 993 310 1234", "URL": "http:\/\/www.villahermosa.regency.hyatt.com\/", "ADRESS1": "Ave. Benito Juarez No. 106 Lindavista", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86050  }, "geometry": { "type": "Point", "coordinates": [ -92.9400602, 17.9949915 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "Hotel Viva", "TEL": "(52) 993 313 6000", "URL": "http:\/\/www.hotelviva.com.mx\/", "ADRESS1": "Av. Adolfo Ruiz Cortines y Paseo Tabasco S/N Lindavista", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86050 }, "geometry": { "type": "Point", "coordinates": [ -92.9410731, 17.9964942 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "Báez Carrizal Hotel", "TEL": "(52) 993 354 5081", "URL": "http:\/\/www.hotelbaez.com\/", "ADRESS1": "Av. Ruiz Cortínes 1802 Atasta", "ADDRESS2": "null", "CITY": "villahermosa", "ZIP": 86100 }, "geometry": { "type": "Point", "coordinates": [ -92.9572203, 17.9872044 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "Fiesta Inn Cencali", "TEL": "(52) 993 313 6611", "URL": "http:\/\/www.fiestainn.com\/", "ADRESS1": "Benito Juárez Garcia 105 Lindavista", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86050 }, "geometry": { "type": "Point", "coordinates": [ -92.9390812, 17.9946216 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NAME": "Hotel Parador", "TEL": "(52) 993 354 3148", "URL": "null", "ADRESS1": "Calle Felipe Carrillo Puerto 106 El Espejo I", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86108 }, "geometry": { "type": "Point", "coordinates": [ -92.956257, 18.0010783 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "NAME": "Quinta Real Villahermosa", "TEL": "(52) 993 310 1300", "URL": "http:\/\/www.quintareal.com\/", "ADRESS1": "Av Paseo Usumacinta 1402 La Choca", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86037  }, "geometry": { "type": "Point", "coordinates": [ -92.9608954, 18.001229 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "NAME": "POSADA REAL DON PEDRO HOTEL", "TEL": "(52) 993 354 7927", "URL": null, "ADRESS1": "Felipe J. Serra 132 Cuadrante II Atasta de Serra", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86100 }, "geometry": { "type": "Point", "coordinates": [ -92.9572728, 17.987468 ] } }
+
+
+]
+}

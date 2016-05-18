@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Asador Castellano", "TEL": "(01) 993 316 9909", "URL": "http:\/\/www.asadorcastellano.com.mx\/", "ADRESS1": "Av. Paseo La Choca 120 Tabasco 2000", "ADDRESS2": null, "CITY": "villahermosa", "ZIP":86035 }, "geometry": { "type": "Point", "coordinates": [ -92.9415135, 17.981821  ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "McDonald's", "TEL": "(01) 993 315 2151", "URL": "http:\/\/www.mcdonalds.com.mx\/", "ADRESS1": "Heroico Colegio Militar 102", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86035  }, "geometry": { "type": "Point", "coordinates": [ -92.9480601, 17.9779971  ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Sensei Sushi Bar", "TEL": "(01) 993 316 4579", "URL": "http:\/\/www.sensei.com.mx\/", "ADRESS1": "Periférico Carlos Pellicer Cámara 204 Tabasco 2000 Multiochenta", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86035  }, "geometry": { "type": "Point", "coordinates": [ -92.9556176, 18.003721 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "STARBUCKS PLAZA MALLORCA", "TEL": "(01) 800 288 0888", "URL": "null", "ADRESS1": "Periférico Carlos Pellicer Cámara Multi Multiochenta", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86035  }, "geometry": { "type": "Point", "coordinates": [ -92.9557339, 18.0039131 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Jangada Restaurante", "TEL": "(01) 993 310 8130", "URL": "http:\/\/www.jangadarestaurante.com\/", "ADRESS1": "Paseo La Choca 126 A Tabasco 2000", "ADDRESS2": null, "CITY": "villahermosa", "ZIP": 86035  }, "geometry": { "type": "Point", "coordinates": [ -92.9532743, 18.0027731 ] } }
+
+
+]
+}
